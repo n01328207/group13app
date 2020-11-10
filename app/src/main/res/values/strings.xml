@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">group13app</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="security">Security</string>
+    <string name="payment">Payment Info</string>
+    <string name="backmain">Go Back To Main Menu</string>
+    <string name="greenlight"><b>GreenLight Services and Promotions</b> \nStay in the know about all things GreenLight.
+    \nGet the latest product updates, upcoming
+    events, and GreenLight promos.</string>
+    <string name="partner"><b>Partner Offers</b> \nBe the first to receive exclusive student
+discounts, coupons, and promos from our
+friends and partners.</string>
+    <string name="unsubscribe"><b>Unsubscribe from all emails</b> \nBy clicking this operation, I understand
+that I will continue to receive transactional
+emails such as order and shipment
+confirmation emails as outlined in
+GreenLight\'s privacy policy. We already
+miss you!</string>
+</resources>
